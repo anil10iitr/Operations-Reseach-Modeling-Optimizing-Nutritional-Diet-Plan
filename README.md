@@ -1,0 +1,2 @@
+# Operations-Reseach-Modeling-Optimizing-Nutritional-Diet-Plan
+The WHO and UK nutritional guidelines were used as a benchmark to formulate the diet plan for the children. A multiobjective linear optimization model was designed to ensure that the nutritional guidelines were met within the currently available food sources in the country while minimizing the cost and the energy intake at the same time while incorporating the current consumption pattern of children in harvest and non-harvest seasons of the country and the availability of food items
